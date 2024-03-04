@@ -1,0 +1,4 @@
+- 👋 Hola, soy Marcos
+- 👀 Estoy interesado en aprender a programar 
+- 💞️ Estoy buscando colaborar en proyectos en los que pueda ser de utilidad
+- 📫 Puedes contactarme por mi correo mrc.meriodeti@gmail.com
